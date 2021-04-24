@@ -1,0 +1,3 @@
+pygame
+a screen used for potrayal of the board, cannot be done in an online compiler
+the tictactoe-py module for any version of pygame after 2.0
